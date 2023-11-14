@@ -12,7 +12,7 @@ setup(
         'License :: OSI Approved :: Apache Software License',
     ],
     install_requires=[
-        'aiohttp==0.20.0',
+        'aiohttp==3.8.6',
         'aiohttp_jinja2',
         'coloredlogs',
         'passlib',
